@@ -1,0 +1,80 @@
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO           
+FES ARAGON. D.R. 2015-2020           
+Ernesto Peñaloza Romero 
+Fecha: 04/12/2020 
+Hora : 14:12:37.41 
+======================================= 
+.           
+.           
+.           
+ESTILO 
+================= 
+.           
+.           
+.           
+COMPILANDO 
+================= 
+CYP04.cpp
+Generando código
+Generación de código finalizada
+.          
+.          
+PROBANDO PROGRAMA   
+================= 
+ESTILO    
+=================
+Resultado          :  2
+VALOR DEL ESTILO   :  2
+
+
+CORRECCION    
+=================
+
+* 45 Pruebas aleatorias
+_________________________________
+==> No OK.
+.
+Resultado: 305/322
+.
+.
+* 5 Pruebas de valores limite
+_________________________________
+  == Proceso terminado por Timeout en prueba CYP04-49.out
+
+==>El programa ha excedido el tiempo de espera al procesar todas las pruebas y solo se alcanzo a procesar hasta CYP04-49.dat y se ha abortado la ejecucion tras 15 segundos 
+.
+.
+==> No OK.
+.
+Resultado: 22/16
+.
+.
+.
+.
+* Prueba del valor de retorno
+_________________________________
+==> OK
+.
+Resultado: 1/1
+.
+.
+TOTAL 305 22 1   : 328/339
+.
+VALOR DE LA EVALUACION DE LA CORRECCION   :  6.72
+.
+.
+CONCLUSIONES    
+=================
+Resultado          :  1
+VALOR DE LAS CONCLUSIONES    :  1
+.
+EVALUACION FINAL     
+==============
+NUMERO DE CUENTA: 421108844
+
+.
+.
+	EVALUACION TOTAL:  9.72
+.           
+.           
+.           
